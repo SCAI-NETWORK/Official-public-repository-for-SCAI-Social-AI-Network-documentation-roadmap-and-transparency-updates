@@ -2,7 +2,7 @@
 
 This roadmap summarizes the current public direction of SCAI Social AI Network. Timelines are forward-looking and may change due to technical, security, regulatory, infrastructure or market conditions.
 
-## Phase 0 · Q1 2026
+## Phase 0 - Q1 2026
 
 **Genesis And Infrastructure**
 
@@ -11,7 +11,7 @@ This roadmap summarizes the current public direction of SCAI Social AI Network. 
 - Initial bot suite planning.
 - Infrastructure design for private platform, investor access and smart-contract modules.
 
-## Phase 1 · Q2 2026
+## Phase 1 - Q2 2026
 
 **Sensing Engine Beta**
 
@@ -22,7 +22,7 @@ This roadmap summarizes the current public direction of SCAI Social AI Network. 
 - New bot deployment: Double Bot.
 - First reward event.
 
-## Phase 2 · Q3-Q4 2026
+## Phase 2 - Q3-Q4 2026
 
 **Expansion Layer**
 
@@ -32,7 +32,7 @@ This roadmap summarizes the current public direction of SCAI Social AI Network. 
 - CertiK Skynet audit target.
 - New SCAI Neural terminal.
 
-## Phase 3 · Q4 2026-Q1 2027
+## Phase 3 - Q4 2026-Q1 2027
 
 **Global Node Expansion**
 
@@ -41,7 +41,7 @@ This roadmap summarizes the current public direction of SCAI Social AI Network. 
 - Beginning of Token Creator Launchpad Suite+.
 - Reward event.
 
-## Phase 4 · Q1-Q2 2027
+## Phase 4 - Q1-Q2 2027
 
 **AI Trading Maturity**
 
@@ -51,7 +51,7 @@ This roadmap summarizes the current public direction of SCAI Social AI Network. 
 - Final node deployment.
 - AI trading deployment.
 
-## Phase 5 · Q3 2027
+## Phase 5 - Q3 2027
 
 **Final Upgrade And Public Market Preparation**
 

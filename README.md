@@ -2,6 +2,11 @@
 
 **High Frequency, Low Latency Trading Ecosystem**
 
+[![Website](https://img.shields.io/badge/Website-scainetwork.com-f4f4f5?style=for-the-badge)](https://scainetwork.com)
+[![Platform](https://img.shields.io/badge/Platform-app.scainetwork.com-d4af37?style=for-the-badge)](https://app.scainetwork.com)
+[![Security](https://img.shields.io/badge/Security-Responsible%20Disclosure-0f172a?style=for-the-badge)](SECURITY.md)
+[![Transparency](https://img.shields.io/badge/Transparency-Public%20Updates-8b5cf6?style=for-the-badge)](TRANSPARENCY.md)
+
 SCAI Social AI Network is a token-gated AI trading ecosystem designed around autonomous bot engines, investor access, transparent allocation logic, auditable platform controls and fast execution workflows.
 
 The public repository exists to provide transparent project documentation, roadmap updates, public security posture, smart-contract references and ecosystem progress without exposing private execution code, trading strategies, infrastructure credentials or internal automation logic.
@@ -50,6 +55,19 @@ The platform is designed to separate user custody, credentials, execution permis
 - [Bot Suite Overview](docs/bot-suite-overview.md)
 - [Tokenomics Summary](docs/tokenomics-summary.md)
 - [Contracts Public References](contracts/README.md)
+
+## Public Repository Map
+
+The SCAI public GitHub presence is designed to be split into focused documentation repositories:
+
+| Repository | Purpose |
+| --- | --- |
+| `scai-whitepaper` | Public whitepaper, ecosystem thesis and investor-facing narrative. |
+| `scai-security` | Security model, responsible disclosure and non-custodial platform posture. |
+| `scai-roadmap` | Development milestones, release notes and public progress updates. |
+| `scai-transparency` | Token references, allocation framework, audit links and deployment records. |
+
+Private execution code, trading strategies, workers and infrastructure automation remain outside the public repository layer.
 
 ## Official Links
 
