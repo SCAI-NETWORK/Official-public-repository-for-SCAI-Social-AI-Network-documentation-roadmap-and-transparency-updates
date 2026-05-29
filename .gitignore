@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+node_modules/
+dist/
+build/
+out/
