@@ -25,3 +25,20 @@ Arbitrage Bot monitors cross-exchange, triangular and funding-rate opportunities
 ## Design Principle
 
 Each bot is separated so that one strategy cannot pollute another. Shared platform services such as notifications, security, worker supervision, exports and live-promotion gates remain centralized.
+
+## DeFi Strategy Expansion
+
+SCAI is also preparing a broader DeFi-native strategy catalog inspired by familiar retail trading products, but designed around non-custodial execution, wallet-bound permissions, paper-auditable sessions and future smart-contract enforcement.
+
+Publicly tracked strategy families include:
+
+- Spot grid and onchain grid.
+- Rebalance automation.
+- Futures grid and futures DCA.
+- Smart Trade.
+- Buy The Dip and Trailing DCA.
+- Infinity Grid.
+- Hedging and structured-income strategy concepts.
+- Custom Strategy export path for future SCAI Trading Lab workflows.
+
+The product direction is to keep each bot simple at the interface level while separating runtime, audit trail, risk limits and execution path per strategy.

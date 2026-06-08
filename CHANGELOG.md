@@ -2,6 +2,13 @@
 
 All notable public project updates will be documented here.
 
+## 2026-06-08
+
+- Expanded the public bot-suite narrative to include the next wave of DeFi-native strategy modules.
+- Updated public communication references for official long-form publishing channels.
+- Continued platform-readiness work around investor documentation, support routing, transparency pages and public trust materials.
+- Reinforced the public/private boundary: documentation, roadmap and transparency updates remain public while proprietary execution logic stays private.
+
 ## 2026-05-29
 
 - Added public GitHub documentation structure.
